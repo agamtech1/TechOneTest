@@ -42,7 +42,7 @@ dotnet build
 
 ### CLI
 
-From the web project folder (TechOne Test):
+From the project folder (TechOneTest):
 
 ```bash
 dotnet run
